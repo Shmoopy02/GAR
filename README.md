@@ -1,8 +1,14 @@
+#Galactic Arms Race
+
 Welcome to the GitHub repo for the Galactic Arms Race video game.
+
+#URLs
 
 Site: http://galacticarmsrace.blogspot.com/
 Steam: http://store.steampowered.com/app/249610/Galactic_Arms_Race/
 Master Server: http://garmasterserver.appspot.com/
+
+#Overview
 
 GAR was released in 2009 as an experiment in machine learning at the Evolutionary Complexity Research Group at University of Central Florida.
 
