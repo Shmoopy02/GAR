@@ -1,0 +1,1 @@
+C# and C++ DLL source code for GAR SteamManager. Provides interop between C+ GAR game and C++ Steam SDK.
